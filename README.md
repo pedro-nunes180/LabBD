@@ -6,7 +6,7 @@ SELECT CategoryName, Description FROM Categories;
 > [!IMPORTANT]
 > SYNTAX
 ####CODIGO SQL
-SELECT * FROM Customers;
+SELECT City, Country FROM Customers;
 
 > [!IMPORTANT]
 > SELECT
@@ -27,7 +27,7 @@ WHERE Country='Mexico';
 > [!IMPORTANT]
 > ORDER BY
 ####CODIGO SQL
-SELECT * FROM Products
+SELECT ProductName FROM Products
 ORDER BY Price DESC;
 
 > [!IMPORTANT]
